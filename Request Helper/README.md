@@ -3,6 +3,8 @@ Request Helper
 
 Usage
 -----
+First, add request_helper.php to application/helpers.
+
 Add the following to your controller:
     
     $this->load->helper('request');
